@@ -15,7 +15,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:AMAI-GmbH/AI-Expert-Roadmap.git"
+    "url": "git@github.com:GasComIT/AI-Expert-Roadmap.git"
   },
   "license": "MIT"
 }
