@@ -7,7 +7,7 @@
   <p align="center">
       <a href="https://twitter.com/home?status=https://i.am.ai/roadmap Roadmap to becoming an Artificial Intelligence Expert in 2022" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://i.am.ai/roadmap&title=&summary=Roadmap to becoming an Artificial Intelligence Expert in 2022&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/GasComIT/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
       <a href="https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Badge" target="_blank"><img alt="AMAI GmbH" src="https://img.shields.io/badge/Author-AMAI GmbH-blue.svg" style="display: inherit;"/></a>
 <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
@@ -22,7 +22,7 @@ If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/
 
 👉 An **interactive version with links to follow** about each bullet of the list can be found at [i.am.ai/roadmap](https://i.am.ai/roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Interactive) 👈
 
-To receive updates [star :star:](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/) to get notified, when we add new content to stay on the top of the most recent research.
+To receive updates [star :star:](https://github.com/GasComIT/AI-Expert-Roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/GasComIT/AI-Expert-Roadmap/) to get notified, when we add new content to stay on the top of the most recent research.
 
 Follow our [AI Newsletter](https://i.am.ai/newsletter?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Newsletter) to stay up to date with the latest developments in AI. We cover new use cases and research topics.
 
